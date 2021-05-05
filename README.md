@@ -12,4 +12,13 @@
 Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Loodos for Vodafone. Since 2017, I have been coding iOS with high passion without shutting down my MacBook during a month. In GitHub, I am trying to share open-source frameworks that might help to improve my reputation. Because sharing is good, I am publishing articles on my Blog. Besides  I am glad to help new iOS developers. 
 
 
+<br></br>
+<a href="https://github.com/atakancengizkurt/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atakancengizkurt&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+<br></br>
+<a href="https://github.com/atakancengizkurt/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atakancengizkurt&layout=compact" />
+</a>
+<br></br>
 [![İzmir Avukat](https://img.shields.io/badge/İzmir%20Avukat-white?style=flat-square0&link=https://www.karacanta.av.tr)](https://www.karacanta.av.tr)
