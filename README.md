@@ -6,12 +6,20 @@
 [![Indie Hackers](https://img.shields.io/badge/-IndieHackers-0e2439?style=flat-square0&logo=IndieHackers&link=https://www.indiehackers.com/atakancengizkurt)](https://www.indiehackers.com/atakancengizkurt)
 [![Web Site](https://img.shields.io/badge/-Web%20Site-blue?style=flat-square0&logo=apple&link=https://www.atakancengizkurt.com.tr)](https://www.atakancengizkurt.com.tr)
 [![Blog](https://img.shields.io/badge/Blog-white?style=flat-square0&logo=blogger&link=https://www.atakancengizkurt.com)](https://www.atakancengizkurt.com)
+[![izmir avukat](https://img.shields.io/badge/İzmir%20Avukat-white?style=flat-square0&link=https://www.karacanta.av.tr)](https://www.karacanta.av.tr)
 
 ![Group 80@2x](https://user-images.githubusercontent.com/28401804/135274789-8ac4526c-4ca6-4745-bd20-0df0deb0dcc2.jpg)
+
 
 ## About Me
 Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Loodos for Vodafone. Since 2017, I have been coding iOS with high passion without shutting down my MacBook during a month. In GitHub, I am trying to share open-source frameworks that might help to improve my reputation. Because sharing is good, I am publishing articles on my Blog. Besides  I am glad to help new iOS developers. I like my job as an iOS Developer.
 
+- 🔭 &nbsp;I’m currently working on iOS Development :wink:
+- 🌱 &nbsp;I’m currently exploring SwiftUI and new techs
+- 💬 &nbsp;Ask me about anything related to iOS, Swift, SwiftUI, Xcode
+- 📫 &nbsp;How to reach me: [Atakan Cengiz KURT](https://www.linkedin.com/in/atakancengizkurt)
+- 👨‍💻 &nbsp;Read more about my projects at [atakancengizkurt.com.tr](https://www.atakancengizkurt.com.tr)
+- ⚡ &nbsp;Fun fact: I :heart: 💻:
 
 <br></br>
 <a href="https://github.com/atakancengizkurt/github-readme-stats">
@@ -22,8 +30,6 @@ Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Loodos for V
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atakancengizkurt&layout=compact" />
 </a>
 
-<br></br>
-[![İzmir Avukat](https://img.shields.io/badge/İzmir%20Avukat-white?style=flat-square0&link=https://www.karacanta.av.tr)](https://www.karacanta.av.tr)
 <br></br>
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
