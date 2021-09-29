@@ -21,5 +21,19 @@ Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Loodos for V
 <a href="https://github.com/atakancengizkurt/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atakancengizkurt&layout=compact" />
 </a>
+
 <br></br>
 [![İzmir Avukat](https://img.shields.io/badge/İzmir%20Avukat-white?style=flat-square0&link=https://www.karacanta.av.tr)](https://www.karacanta.av.tr)
+<br></br>
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
+  <p align="left">
+    <a href="https://swift.org/" target="_blank"> <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="swift" width="40" height="40"/> </a>
+     <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" alt="xcode" width="40" height="40"/> </a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+    </p>
+</details>
+
+
