@@ -7,6 +7,7 @@
 [![Web Site](https://img.shields.io/badge/-Web%20Site-blue?style=flat-square0&logo=apple&link=https://www.atakancengizkurt.com.tr)](https://www.atakancengizkurt.com.tr)
 [![Blog](https://img.shields.io/badge/Blog-white?style=flat-square0&logo=blogger&link=https://www.atakancengizkurt.com)](https://www.atakancengizkurt.com)
 
+![Group 80@2x](https://user-images.githubusercontent.com/28401804/135274789-8ac4526c-4ca6-4745-bd20-0df0deb0dcc2.jpg)
 
 ## About Me
 Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Loodos for Vodafone. Since 2017, I have been coding iOS with high passion without shutting down my MacBook during a month. In GitHub, I am trying to share open-source frameworks that might help to improve my reputation. Because sharing is good, I am publishing articles on my Blog. Besides  I am glad to help new iOS developers. I like my job as an iOS Developer.
