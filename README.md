@@ -19,7 +19,7 @@ Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Loodos for V
 - 💬 &nbsp;Ask me about anything related to iOS, Swift, SwiftUI, Xcode
 - 📫 &nbsp;How to reach me: [Atakan Cengiz KURT](https://www.linkedin.com/in/atakancengizkurt)
 - 👨‍💻 &nbsp;Read more about my projects at [atakancengizkurt.com.tr](https://www.atakancengizkurt.com.tr)
-- ⚡ &nbsp;Fun fact: I :heart: 💻:
+- ⚡ &nbsp;Fun fact: I :heart: 💻
 
 <br></br>
 <a href="https://github.com/atakancengizkurt/github-readme-stats">
