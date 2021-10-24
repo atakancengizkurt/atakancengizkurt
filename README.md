@@ -21,6 +21,15 @@ Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Loodos for V
 - 👨‍💻 &nbsp;Read more about my projects at [atakancengizkurt.com.tr](https://www.atakancengizkurt.com.tr)
 - ⚡ &nbsp;Fun fact: I :heart: 💻
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/0" alt="Recent Article 0"> 
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/1" alt="Recent Article 1">
+  
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/2" alt="Recent Article 1"> 
+
+
 <br></br>
 <a href="https://github.com/atakancengizkurt/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atakancengizkurt&show_icons=true&include_all_commits=true&count_private=true" />
