@@ -6,7 +6,7 @@
 [![Indie Hackers](https://img.shields.io/badge/-IndieHackers-0e2439?style=flat-square0&logo=IndieHackers&link=https://www.indiehackers.com/atakancengizkurt)](https://www.indiehackers.com/atakancengizkurt)
 [![Web Site](https://img.shields.io/badge/-Web%20Site-blue?style=flat-square0&logo=apple&link=https://www.atakancengizkurt.com.tr)](https://www.atakancengizkurt.com.tr)
 [![Blog](https://img.shields.io/badge/Blog-white?style=flat-square0&logo=blogger&link=https://www.atakancengizkurt.com)](https://www.atakancengizkurt.com)
-[![izmir avukat](https://img.shields.io/badge/İzmir%20Avukat-white?style=flat-square0&link=https://www.karacanta.av.tr)](https://www.karacanta.av.tr)
+
 
 ![Group 80@2x](https://user-images.githubusercontent.com/28401804/135274789-8ac4526c-4ca6-4745-bd20-0df0deb0dcc2.jpg)
 
