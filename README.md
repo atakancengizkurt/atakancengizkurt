@@ -12,7 +12,7 @@
 
 
 ## About Me <a href="https://www.atakancengizkurt.com.tr/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Loodos for Vodafone. Since 2017, I have been coding iOS with high passion without shutting down my MacBook during a month. In GitHub, I am trying to share open-source frameworks that might help to improve my reputation. Because sharing is good, I am publishing articles on my Blog. Besides  I am glad to help new iOS developers. I like my job as an iOS Developer.
+Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Innovance for Akbank - Juzdan. Since 2017, I have been coding iOS with high passion without shutting down my MacBook during a month. In GitHub, I am trying to share open-source frameworks that might help to improve my reputation. Because sharing is good, I am publishing articles on my Blog. Besides  I am glad to help new iOS developers. I like my job as an iOS Developer.
 
 - 🔭 &nbsp;I’m currently working on iOS Development :wink:
 - 🌱 &nbsp;I’m currently exploring SwiftUI and new techs
