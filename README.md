@@ -25,12 +25,7 @@ Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Innovance fo
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/0" alt="Recent Article 0"> 
-
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/1" alt="Recent Article 1">
-  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/2" alt="Recent Article 1"> 
-
+[![My Medium story](https://medium-story.vercel.app/api?username=@atakancengizkurt)](https://medium-story.vercel.app/api?username=@atakancengizkurt&is_link=true)
 
 <br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atakancengizkurt&show_icons=true&locale=en" alt="atakancengizkurt" /></p>
