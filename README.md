@@ -6,7 +6,7 @@
 [![Indie Hackers](https://img.shields.io/badge/-IndieHackers-0e2439?style=flat-square0&logo=IndieHackers&link=https://www.indiehackers.com/atakancengizkurt)](https://www.indiehackers.com/atakancengizkurt)
 [![Web Site](https://img.shields.io/badge/-Web%20Site-blue?style=flat-square0&logo=apple&link=https://www.atakancengizkurt.com.tr)](https://www.atakancengizkurt.com.tr)
 [![Blog](https://img.shields.io/badge/Blog-white?style=flat-square0&logo=blogger&link=https://www.atakancengizkurt.com)](https://www.atakancengizkurt.com)
-
+<img src="https://komarev.com/ghpvc/?username=atakancengizkurt&label=Profile%20views&color=0e75b6&style=flat" alt="atakancengizkurt" />
 
 ![Group 80@2x](https://user-images.githubusercontent.com/28401804/135274789-8ac4526c-4ca6-4745-bd20-0df0deb0dcc2.jpg)
 
@@ -21,6 +21,8 @@ Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Innovance fo
 - 👨‍💻 &nbsp;Read more about my projects at [atakancengizkurt.com.tr](https://www.atakancengizkurt.com.tr)
 - ⚡ &nbsp;Fun fact: I :heart: 💻
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakancengizkurt" alt="atakancengizkurt" /></a> </p>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atakancengizkurt/0" alt="Recent Article 0"> 
@@ -31,9 +33,7 @@ Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Innovance fo
 
 
 <br></br>
-<a href="https://github.com/atakancengizkurt/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atakancengizkurt&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atakancengizkurt&show_icons=true&locale=en" alt="atakancengizkurt" /></p>
 <br></br>
 <a href="https://github.com/atakancengizkurt/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atakancengizkurt&layout=compact" />
@@ -45,7 +45,7 @@ Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Innovance fo
   <br/>
   <p align="left">
     <a href="https://swift.org/" target="_blank"> <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="swift" width="40" height="40"/> </a>
-     <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" alt="xcode" width="40" height="40"/> </a>
+     <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="xcode" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
     </p>
