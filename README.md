@@ -31,8 +31,8 @@ Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Innovance fo
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atakancengizkurt&show_icons=true&locale=en" alt="atakancengizkurt" /></p>
 
-<br></br>
-<details>
+
+
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p align="left">
@@ -41,6 +41,6 @@ Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Innovance fo
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
     </p>
-</details>
+
 
 
