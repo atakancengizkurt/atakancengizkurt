@@ -15,32 +15,21 @@
 Hello👋, I am Atakan Cengiz KURT who as an iOS Developer works at Innovance for Akbank - Juzdan. Since 2017, I have been coding iOS with high passion without shutting down my MacBook during a month. In GitHub, I am trying to share open-source frameworks that might help to improve my reputation. Because sharing is good, I am publishing articles on my Blog. Besides  I am glad to help new iOS developers. I like my job as an iOS Developer.
 
 - 🔭 &nbsp;I’m currently working on iOS Development :wink:
-- 🌱 &nbsp;I’m currently exploring SwiftUI and new techs
-- 💬 &nbsp;Ask me about anything related to iOS, Swift, SwiftUI, Xcode
-- 📫 &nbsp;How to reach me: [Atakan Cengiz KURT](https://www.linkedin.com/in/atakancengizkurt)
-- 👨‍💻 &nbsp;Read more about my projects at [atakancengizkurt.com.tr](https://www.atakancengizkurt.com.tr)
-- ⚡ &nbsp;Fun fact: I :heart: 💻
+- 🌱 Exploring: SwiftUI, Swift Concurrency and new Apple platform APIs
+- 💬 Ask me about: iOS, Swift, SwiftUI, Xcode, shipping indie apps
+- ✍️ Writing: articles on [my blog](https://www.atakancengizkurt.com) and [Medium](https://medium.com/@atakancengizkurt)
+- 🤝 Happy to help developers who are new to iOS: reach me on [LinkedIn](https://www.linkedin.com/in/atakancengizkurt)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakancengizkurt" alt="atakancengizkurt" /></a> </p>
+## Tech stack
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-[![My Medium story](https://medium-story.vercel.app/api?username=@atakancengizkurt)](https://medium-story.vercel.app/api?username=@atakancengizkurt&is_link=true)
+[![Tech stack](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,git,github,jenkins,postman,php)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atakancengizkurt&show_icons=true&locale=en&layout=compact" alt="atakancengizkurt" /></p>
+## Open source
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atakancengizkurt&show_icons=true&locale=en" alt="atakancengizkurt" /></p>
-
-
-
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  <p align="left">
-    <a href="https://swift.org/" target="_blank"> <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="swift" width="40" height="40"/> </a>
-     <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="xcode" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-    </p>
+| Project | Description |
+| --- | --- |
+| [SwiftUIHaptic](https://github.com/atakancengizkurt/SwiftUIHaptic) | Haptic feedback examples in SwiftUI |
+| [Swift-Resources](https://github.com/atakancengizkurt/Swift-Resources) | Curated list of Turkish and English Swift learning resources |
 
 
 
