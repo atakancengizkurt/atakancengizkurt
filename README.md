@@ -1,6 +1,6 @@
 # Hi, I'm Atakan 👋
 
-**iOS Developer @ Innovance (Akbank – Juzdan) · Indie maker of iOS & Android apps · İzmir, Turkey**
+**iOS Developer · Indie maker of iOS & Android apps · İzmir, Turkey**
 
 [![Website](https://img.shields.io/badge/Website-0e75b6?style=flat-square&logo=safari&logoColor=white)](https://www.atakancengizkurt.com.tr)
 [![Blog](https://img.shields.io/badge/Blog-ff5722?style=flat-square&logo=blogger&logoColor=white)](https://www.atakancengizkurt.com)
@@ -14,10 +14,10 @@
 
 ## About me
 
-I've been building iOS apps since 2017. By day I work on **Juzdan**, Akbank's mobile app, at Innovance.
+I've been building iOS apps since 2017. By day I work on a large-scale fintech app used by millions.
 On the side I build and ship my own apps on the **App Store** and **Google Play**, usually as a native Swift + Kotlin pair.
 
-- 🔭 Working on: banking-scale iOS at work, indie apps on the side
+- 🔭 Working on: fintech iOS at work, indie apps on the side
 - 🌱 Exploring: SwiftUI, Swift Concurrency and new Apple platform APIs
 - 💬 Ask me about: iOS, Swift, SwiftUI, Xcode, shipping indie apps
 - ✍️ Writing: articles on [my blog](https://www.atakancengizkurt.com) and [Medium](https://medium.com/@atakancengizkurt)
